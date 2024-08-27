@@ -1,0 +1,166 @@
+{
+    "medicines": [
+      {
+        "id": "1",
+        "name": "Paracetamol",
+        "description": "Paracetamol is commonly used to relieve mild to moderate pain and reduce fever. It is effective for headaches, muscle aches, arthritis, backaches, toothaches, colds, and fevers. Unlike NSAIDs, paracetamol does not reduce inflammation. It is generally well-tolerated but should not be exceeded in dosage to avoid liver damage. Always use the correct dose and consult with a healthcare provider if you have liver disease or consume alcohol regularly.",
+        "warnings": "Avoid if allergic to acetaminophen. Do not exceed the recommended dose to prevent liver damage.",
+        "when_to_take": "Can be taken every 4-6 hours as needed. Do not exceed 4,000 mg per day.",
+        "expiration_days": 365,
+        "image_url": "https://ubuntupharmacy.com/wp-content/uploads/2023/05/Parcetamol.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Disprine",
+        "description": "Disprine is used for the relief of pain and inflammation associated with conditions such as arthritis, muscle pain, and menstrual cramps. It contains acetylsalicylic acid, which works by blocking substances in the body that cause pain and inflammation. Disprine is effective for temporary relief but should be used cautiously in individuals with a history of gastrointestinal issues or aspirin allergies. Long-term use can lead to complications, so follow dosing guidelines carefully.",
+        "warnings": "Avoid in case of aspirin allergy. Consult your doctor if you have gastrointestinal issues or are pregnant.",
+        "when_to_take": "Take as directed, usually every 4-6 hours as needed, but do not exceed the recommended dose.",
+        "expiration_days": 365,
+        "image_url": "https://m.media-amazon.com/images/I/51Jo57LVWDL.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Diclo Wins Plus",
+        "description": "Diclo Wins Plus combines diclofenac, a nonsteroidal anti-inflammatory drug (NSAID), with other agents to provide effective relief from pain and inflammation. It is commonly used for conditions like arthritis, muscle pain, and post-surgical pain. The medication reduces pain, swelling, and stiffness. However, it may cause gastrointestinal discomfort or kidney issues if used long-term. Always use the medication as directed and consult a healthcare provider if you have underlying health conditions.",
+        "warnings": "Not recommended for patients with gastrointestinal problems. Use with caution if you have renal impairment.",
+        "when_to_take": "Take with food to minimize stomach upset. Follow the dosage instructions provided by your doctor.",
+        "expiration_days": 365,
+        "image_url": "https://www.netmeds.com/images/product-v1/600x600/369930/diclowin_plus_tablet_10s_0_1.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Combiflam",
+        "description": "Combiflam is a combination of ibuprofen and paracetamol, providing both pain relief and anti-inflammatory effects. It is used to alleviate mild to moderate pain, including headaches, muscle pain, and menstrual cramps, and to reduce fever. The dual action helps address both pain and inflammation. Use with caution in individuals with a history of gastrointestinal issues or renal problems, and always follow dosing instructions to avoid adverse effects.",
+        "warnings": "Do not use if allergic to NSAIDs or if you have gastrointestinal problems. Use only as directed.",
+        "when_to_take": "Take every 6-8 hours as needed. Do not exceed the recommended dose to prevent side effects.",
+        "expiration_days": 365,
+        "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/HG/LO/KU/8786141/com0004-500x500.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Nomokes",
+        "description": "Nomokes is used to relieve pain and inflammation associated with conditions like arthritis, muscle pain, and menstrual cramps. It acts as a nonsteroidal anti-inflammatory drug (NSAID) that reduces pain and swelling. It should be taken with food to avoid stomach upset and should not be used for extended periods without medical supervision. Monitor for any gastrointestinal or renal side effects, and consult your doctor if you have any pre-existing conditions.",
+        "warnings": "Avoid if allergic to any component. Consult a doctor if pregnant, breastfeeding, or have pre-existing conditions.",
+        "when_to_take": "Follow the dosage instructions provided by your healthcare provider, usually with food.",
+        "expiration_days": 365,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLenNzayYzwFWXLJzDfoReYdF5pdDfC_KERA&s"
+      },
+      {
+        "id": "6",
+        "name": "Vicksaction 500",
+        "description": "Vicksaction 500 is used for the symptomatic relief of cold and flu symptoms, including congestion, cough, and sore throat. It combines multiple active ingredients to alleviate discomfort associated with colds and sinusitis. This medication can provide temporary relief but should be used according to the instructions to avoid overuse. Be cautious of potential drowsiness and consult your doctor if symptoms persist or if you have other health concerns.",
+        "warnings": "May cause drowsiness. Avoid in children under 12 years. Consult a doctor for prolonged symptoms.",
+        "when_to_take": "Take every 4-6 hours as needed. Do not exceed the maximum daily dose.",
+        "expiration_days": 365,
+        "image_url": "https://images.ctfassets.net/umpxkz97ty8t/aIwP4Ll5m4jYR3qAlaqGB/901821b7dc61e1fdd2043acfa46ff81e/vicks-india-veer.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Avil",
+        "description": "Avil is an antihistamine used to relieve symptoms of allergic reactions such as hay fever, urticaria, and conjunctivitis. It helps reduce sneezing, runny nose, itching, and rashes. Due to its sedative effects, it may cause drowsiness. Use caution when operating vehicles or machinery. Avoid alcohol while using this medication to prevent enhanced sedative effects. Consult with your healthcare provider for appropriate usage and potential interactions with other medications.",
+        "warnings": "May cause drowsiness. Avoid alcohol. Consult your doctor if you have chronic conditions.",
+        "when_to_take": "Typically taken once or twice daily as needed for allergy symptoms.",
+        "expiration_days": 365,
+        "image_url": "https://www.netmeds.com/images/product-v1/600x600/405819/avil_22_5mg_injection_10x2ml_0_0.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Citragen",
+        "description": "Citragen is used to provide relief from gastric discomfort and indigestion. It contains compounds that help neutralize stomach acid and alleviate symptoms like heartburn and bloating. This medication should be taken after meals to help with digestion and prevent discomfort. While generally safe, it is important to follow dosing recommendations and consult with a healthcare provider if symptoms persist or if you have a history of gastrointestinal issues.",
+        "warnings": "Use with caution in individuals with gastrointestinal disorders. Follow dosage instructions.",
+        "when_to_take": "Take after meals as needed for relief from indigestion.",
+        "expiration_days": 365,
+        "image_url": "https://5.imimg.com/data5/MG/UN/WV/SELLER-107312611/maxresdefault.jpg"
+      },
+      {
+        "id": "9",
+        "name": "Meftalspas",
+        "description": "Meftalspas is used for the relief of menstrual pain, muscle spasms, and other types of pain. It combines mefenamic acid with other ingredients to provide effective pain relief. It works by reducing inflammation and easing muscle tension. It is recommended to take it with food to minimize stomach upset. Long-term use should be monitored by a healthcare provider to avoid potential gastrointestinal issues.",
+        "warnings": "Avoid if allergic to any component. Consult your doctor if you have a history of gastrointestinal issues.",
+        "when_to_take": "Take with food according to the dosage instructions on the label or as directed by your doctor.",
+        "expiration_days": 365,
+        "image_url": "https://www.jeevandip.com/wp-content/uploads/2021/08/MEFTAL-SPAS-TAB-0.png"
+      },
+      {
+        "id": "10",
+        "name": "Nimesilide",
+        "description": "Nimesilide is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and inflammation associated with conditions such as osteoarthritis and acute musculoskeletal pain. It helps reduce fever and alleviate pain by inhibiting the production of inflammatory chemicals in the body. It should be used short-term due to potential risks of liver toxicity. Regular monitoring by a healthcare provider is recommended, especially for prolonged use.",
+        "warnings": "Not recommended for long-term use. Avoid in cases of liver impairment or other significant health issues.",
+        "when_to_take": "Usually taken twice daily, preferably after meals.",
+        "expiration_days": 365,
+        "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/330042758/EB/QF/XO/26342377/nimesulide-100-mg-tablets.jpg"
+      },
+      {
+        "id": "11",
+        "name": "Sinarest Tablets",
+        "description": "Sinarest Tablets are used for relieving symptoms of sinusitis and other respiratory conditions, including nasal congestion and sinus pain. It combines multiple active ingredients to address various symptoms like cough, runny nose, and congestion. It should be taken as directed to alleviate discomfort associated with colds and allergies. Be cautious of potential drowsiness and consult your doctor if symptoms persist.",
+        "warnings": "May cause drowsiness. Avoid in children under 12 years and consult a doctor for prolonged symptoms.",
+        "when_to_take": "Take as directed, usually every 4-6 hours as needed.",
+        "expiration_days": 365,
+        "image_url": "https://images.apollo247.in/pub/media/catalog/product/S/I/SIN0204_1_1.jpg"
+      },
+      {
+        "id": "12",
+        "name": "Sinarest Cough Syrup",
+        "description": "Sinarest Cough Syrup is designed to relieve cough and throat irritation caused by respiratory infections or allergies. It contains a combination of ingredients that help to soothe the throat and reduce cough frequency. This syrup can be particularly effective for dry, irritating coughs. It should be used according to the dosing instructions, and you should consult a healthcare provider if symptoms persist or worsen.",
+        "warnings": "May cause drowsiness. Avoid in children under 6 years. Consult a doctor if symptoms persist.",
+        "when_to_take": "Usually taken every 6-8 hours as needed, but do not exceed the recommended dose.",
+        "expiration_days": 365,
+        "image_url": "https://www.netmeds.com/images/product-v1/600x600/360651/sinarest_syrup_100ml_43659_0_14.jpg"
+      },
+      {
+        "id": "13",
+        "name": "Aspirin",
+        "description": "Aspirin is widely used to reduce fever, pain, and inflammation. It is also used in low doses to reduce the risk of heart attacks and strokes. Aspirin works by inhibiting the production of certain chemicals in the body that cause pain and inflammation. It should be used cautiously in individuals with a history of gastrointestinal issues or bleeding disorders. Always follow dosing instructions and consult a healthcare provider if you have any conditions that might be affected by aspirin use.",
+        "warnings": "Avoid if allergic to aspirin or if you have gastrointestinal bleeding issues. Not recommended for children with viral infections.",
+        "when_to_take": "Take with food to minimize stomach irritation. Follow the prescribed dosage to avoid potential side effects.",
+        "expiration_days": 365,
+        "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/320977720/SN/BK/LI/21276273/aspirin-tablet.jpeg"
+      },
+      {
+        "id": "14",
+        "name": "Ibuprofen",
+        "description": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce fever, and decrease inflammation. It is commonly used for headaches, muscle aches, menstrual cramps, and arthritis. Ibuprofen works by blocking the production of prostaglandins, which are chemicals in the body that cause inflammation and pain. It should be used with caution in individuals with gastrointestinal, kidney, or heart conditions. Always adhere to the recommended dosage.",
+        "warnings": "Avoid if you have a history of gastrointestinal issues, kidney problems, or heart disease. Consult your doctor before use if you have underlying conditions.",
+        "when_to_take": "Take every 4-6 hours as needed. Do not exceed the maximum daily dose to avoid side effects.",
+        "expiration_days": 365,
+        "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/325863554/WI/JM/SY/135658020/ibuprofen-tablets-ip-200-mg-.jpg"
+      },
+      {
+        "id": "15",
+        "name": "Claritin",
+        "description": "Claritin is an antihistamine used to relieve symptoms of allergic reactions, such as sneezing, runny nose, and itchy eyes. It works by blocking histamine, a substance in the body that causes allergy symptoms. Claritin is non-drowsy for most people, making it suitable for daytime use. However, some individuals may experience drowsiness or other side effects. It is important to follow the dosage instructions and consult a healthcare provider if symptoms persist.",
+        "warnings": "May cause drowsiness in some people. Avoid alcohol and consult your doctor if you have chronic health conditions.",
+        "when_to_take": "Usually taken once daily. Follow the dosage instructions on the label or as directed by your healthcare provider.",
+        "expiration_days": 365,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygfVIi4aU83SNMdQlCeh2fSDYCJfcX2JY3AGsWUzKXB7vZRe0gheWMRIkBWg1ZkvQuSM&usqp=CAU"
+      },
+      {
+        "id": "16",
+        "name": "Tetan-20",
+        "description": "Tetan-20 is a tetanus booster vaccine designed to protect against tetanus infection. It is recommended every 10 years for continued protection. Tetanus is a serious bacterial infection that affects the nervous system and can cause muscle stiffness and spasms. The vaccine is crucial for maintaining immunity, especially for individuals at risk due to injuries or exposure to soil. Consult with a healthcare provider to ensure timely vaccinations and boosters.",
+        "warnings": "Consult your doctor if you have a history of severe allergic reactions to vaccines or other health concerns.",
+        "when_to_take": "Typically administered every 10 years for continued protection against tetanus.",
+        "expiration_days": 365,
+        "image_url": "https://www.netmeds.com/images/product-v1/600x600/46162/tetan_20mg_tablet_15_s_2.jpg"
+      },
+      {
+        "id": "17",
+        "name": "Petril-MD 0.25",
+        "description": "Petril-MD 0.25 is used for the management of anxiety disorders and panic attacks. It works by modulating brain chemistry to provide relief from symptoms such as excessive worry, nervousness, and stress. It may cause drowsiness or dizziness, so caution is advised when performing tasks requiring alertness. It is important to follow the prescribed dosage and consult with a healthcare provider for any adjustments or if you experience side effects.",
+        "warnings": "May cause drowsiness and dizziness. Avoid alcohol and other central nervous system depressants. Consult your doctor if you have a history of psychiatric disorders.",
+        "when_to_take": "Take as prescribed by your healthcare provider, usually once or twice daily.",
+        "expiration_days": 365,
+        "image_url": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/4eb8deffdcc644fda88b8bac0d776c28.jpg"
+      },
+      {
+        "id": "18",
+        "name": "Rabiros-D",
+        "description": "Rabiros-D is used for managing symptoms of gastroesophageal reflux disease (GERD) and other acid-related conditions. It combines a proton pump inhibitor with a prokinetic agent to reduce stomach acid and improve gastrointestinal motility. It helps alleviate symptoms such as heartburn and regurgitation. Use it as directed and consult with a healthcare provider for any potential interactions or if symptoms persist.",
+        "warnings": "Consult your doctor if you have liver disease or are taking other medications. Follow the prescribed dosage.",
+        "when_to_take": "Typically taken once daily before a meal for optimal effectiveness.",
+        "expiration_days": 365,
+        "image_url": "https://images.apollo247.in/pub/media/catalog/product/r/a/rab0184_3.jpg"
+      }
+    ]
+  }
